@@ -29,3 +29,4 @@ image::./notes/system-design.png[Agentic App System Design, 800, 600, opts="inte
 
 Please see the link:CONTRIBUTING.adoc[Contributing Guide] for information on how to contribute to this project.
 
+.
