@@ -23,10 +23,10 @@ spec:
     spec:
       project: default
       destination:
-        server: "{{.server}}"
+        server: '{{.server}}'
         namespace: openshift-policy
       source:
-        repoURL: https://github.com/redhat-ai-services/etx-agentic-ai.git
+        repoURL: https://github.com/TiagoAvelino/etx-agentic-ai.git
         path: infra/applications/models/overlay
         plugin:
           name: argocd-vault-plugin-kustomize
